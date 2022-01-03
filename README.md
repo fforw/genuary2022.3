@@ -1,3 +1,4 @@
-# Simple Starter
+# genuary2022.3
 
-Simple JS build starter for simple, client-only demos.
+🎵 Starry starry space
+Paint your palette blue and gray..
